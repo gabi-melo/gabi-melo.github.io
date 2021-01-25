@@ -1,0 +1,4 @@
+baseURL = "http://gabimelo.github.io/"
+languageCode = "en-us"
+title = "I'm Gabi"
+theme = "ananke"
